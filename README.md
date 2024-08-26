@@ -39,4 +39,4 @@ This project underscores my capability to handle end-to-end data analysis proces
 To view the project, clone this repository and open the Power BI file in your Power BI Desktop application. Ensure to review the configured security roles to understand data access levels.
 
 ```bash
-git clone https://github.com/tamarsaa/sales-data-analysis.git
+git clone https://github.com/tamarsaa/Sales_Data_Analysis.git
